@@ -1,0 +1,6 @@
+com.example.m18_permissions.test.app-jetified-core-1.6.1-0 C:\Users\FAN17\.gradle\caches\8.9\transforms\60c4bc1d038e1a98f2168039a8e2d295\transformed\jetified-core-1.6.1\res
+com.example.m18_permissions.test.app-jetified-tracing-1.2.0-1 C:\Users\FAN17\.gradle\caches\8.9\transforms\eaa304ce958ac3fca3cf253a86a40ebc\transformed\jetified-tracing-1.2.0\res
+com.example.m18_permissions.test.app-androidTest-2 C:\Users\FAN17\AndroidStudioProjects\android_dev_1_2022\m18_permissions\app\build\generated\res\resValues\androidTest\debug
+com.example.m18_permissions.test.app-mergeDebugAndroidTestResources-3 C:\Users\FAN17\AndroidStudioProjects\android_dev_1_2022\m18_permissions\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.m18_permissions.test.app-mergeDebugAndroidTestResources-4 C:\Users\FAN17\AndroidStudioProjects\android_dev_1_2022\m18_permissions\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.m18_permissions.test.app-merged_res-5 C:\Users\FAN17\AndroidStudioProjects\android_dev_1_2022\m18_permissions\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,3 @@
+com.example.m18_permissions.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
